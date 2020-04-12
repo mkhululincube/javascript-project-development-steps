@@ -68,15 +68,28 @@ Tools are determined by the size of the project.
 
 Using version control software helps you keep track of changes — and keep every team member working off the latest version
 
-For version control you can use git, svn, mercurial or subversion depending on your preference and project spec however Git is widely used.
-
+For version control you can use git, svn, mercurial or subversion depending on your preference and project spec however Git is widely used, hence we will use [Git](https://git-scm.com/).
 
 
 #### Docker 
 
+Use of Containers
+
 > To mantain same environment between your team members
 
 > Version control system for your entire app's operating system
+
+
+#### CI/CD Continous Integration and Development
+
+CI/CD refers to the set of operating principles, and collection of practices that enable application development teams to deliver code changes more frequently and reliably. 
+The CI/CD is also known as the CI/CD pipeline.
+
+
+For CI/CD you can use Jenkins, Netlify, Circle CI or Travis CI depending on project spec and tools that you are using.
+
+In our case we will use [Netlify] (https://www.netlify.com/)
+
 
 
 
